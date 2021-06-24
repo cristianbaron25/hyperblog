@@ -9,6 +9,8 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor.
 - Las personalidades múltiples de Freddy
-- Creadi por el increible Platzi Team
+- Creado por el increible Platzi Team
+- Incluye ejemplos en windows linux y mac
+- Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
